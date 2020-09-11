@@ -1,0 +1,12 @@
+#lead{
+    color: blue;
+}
+
+table, th, tr, td{
+    border: 2px solid black;
+}
+
+#vegeta{
+    font-size: 55px;
+    text-align: right;
+}
