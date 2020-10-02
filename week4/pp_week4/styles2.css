@@ -1,0 +1,42 @@
+.topnav {
+    top:0;
+    left:0;
+    background-color: lightskyblue;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    
+}
+/* .topnav a {
+  float: left;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.active {
+  background-color: gray;
+  color: white;
+} */
+  
+  img {
+    display:flex;
+    align-content: center;
+    border: 2px solid #000000;
+    position: relative;
+    padding: 10px;
+  }
+  
+  body {
+    background-color: lightskyblue;
+    font-family: 'Piedra', cursive;
+  }
+  
+  p { 
+      padding:10px;
+      position: auto;
+    font-size: 20px;
+    word-wrap: normal;
+    
+  }
